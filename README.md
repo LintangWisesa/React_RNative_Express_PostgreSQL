@@ -4,7 +4,7 @@
 
 # React :heart: React Native :yellow_heart: Express :green_heart: PostgreSQL
 
-<!-- [![Video](https://img.youtube.com/vi/Cd36rmV0N18/0.jpg)](https://www.youtube.com/watch?v=Cd36rmV0N18) -->
+[![Video](https://img.youtube.com/vi/AnbiigKkEPw/0.jpg)](https://www.youtube.com/watch?v=AnbiigKkEPw)
 
 ## _**Tutorial will be available soon!**_ :pray:
 
